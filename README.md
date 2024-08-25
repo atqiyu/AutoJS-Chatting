@@ -10,3 +10,8 @@ Happy API网站: [https://ngedlktfticp.cloud.sealos.io/](https://ngedlktfticp.cl
 `QQ-dome.js`  在QQ中运行
 <br/>
 `KS-dome.js`  在快手平台中运行
+
+## 使用
+
+##### 视频演示：
+[https://v.kuaishou.com/RiBPFI](https://v.kuaishou.com/RiBPFI)
