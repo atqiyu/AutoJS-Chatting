@@ -3,7 +3,7 @@
 
 Autox.js文档: [http://doc.autoxjs.com/](http://doc.autoxjs.com/)
 <br/>
-Happy API网站: ~~ [https://ngedlktfticp.cloud.sealos.io/](https://ngedlktfticp.cloud.sealos.io/) ~~
+Happy API网站:  ~~[https://ngedlktfticp.cloud.sealos.io/](https://ngedlktfticp.cloud.sealos.io/)~~  [happyapi.org](https://happyapi.org)
 
 ## 文件
 
@@ -14,4 +14,4 @@ Happy API网站: ~~ [https://ngedlktfticp.cloud.sealos.io/](https://ngedlktfticp
 ## 使用
 
 ##### 视频演示：
-~~ [https://v.kuaishou.com/RiBPFI](https://v.kuaishou.com/RiBPFI) ~~
+~~[https://v.kuaishou.com/RiBPFI](https://v.kuaishou.com/RiBPFI)~~
