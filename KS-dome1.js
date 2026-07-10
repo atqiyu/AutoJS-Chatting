@@ -6,10 +6,10 @@ console.show();
 
 const KS_PACKAGE = "com.kuaishou.nebula";
 const KS_PACKAGE_IM_PLUGIN = "com.kuaishou.nebula.im_plugin";
-// const QYK_AI_API = "http://api.qingyunke.com/api.php?key=free&appid=0&msg=";
-const GPT_API_URL = "https://ngedlktfticp.cloud.sealos.io/v1/chat/completions";
 
-const MY_KEY = "sk-LMJ7MwBoQTr7Ij4MF3AfDfA9723c4d2f8b02A2635b4e03C6";
+const GPT_API_URL = "";  // API URL
+
+const MY_KEY = "";  // API KEY
 // const GPT_MODEL = ["gpt-4", "gpt-4o", "gpt-4o-mini", "gpt-3.5-turbo"];
 
 // use GPT API to generate response
