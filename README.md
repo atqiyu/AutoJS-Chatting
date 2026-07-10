@@ -1,20 +1,15 @@
 # AutoJS-Chatting
-## 使用 Auto.js 对接 Happy API 的 AI 模型
+### ! 本项目不再维护
+## 使用 Auto.js 对接 AI 模型并在社交软件上运行
 
 Autox.js文档: [http://doc.autoxjs.com/](http://doc.autoxjs.com/)
 <br/>
-Happy API网站:  ~~[https://ngedlktfticp.cloud.sealos.io/](https://ngedlktfticp.cloud.sealos.io/)~~  [happyapi.org](https://happyapi.org)
 
 ## 文件
 
 `QQ-dome.js`  在QQ中运行
 <br/>
-`KS-dome.js`  在快手平台中运行
-
-## 使用
-
-## ⚠️ 注意：代码中的API接口可以已经无法使用
-update时间：2025-10-4
+`KS-dome.js`  在[https://www.kuaishou.com/](https://www.kuaishou.com/)平台中运行
 
 ##### 视频演示：
 ~~[https://v.kuaishou.com/RiBPFI](https://v.kuaishou.com/RiBPFI)~~
