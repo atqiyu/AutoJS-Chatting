@@ -3,10 +3,9 @@
 // start console
 console.show();
 
+const GPT_API_URL = "";  // API URL
 
-const GPT_API_URL = "https://ngedlktfticp.cloud.sealos.io/v1/chat/completions";
-
-const MY_KEY = "sk-LMJ7MwBoQTr7Ij4MF3AfDfA9723c4d2f8b02A2635b4e03C6";
+const MY_KEY = "";  // API KEY
 // const GPT_MODEL = ["gpt-4", "gpt-4o", "gpt-4o-mini", "gpt-3.5-turbo"];
 
 // use GPT API to generate response
@@ -59,9 +58,6 @@ function gpt(input, key, model) {
 let qq_package = "com.tencent.mobileqq";
 let editor = id(qq_package + ":id/input");
 let sendBtn = id(qq_package + ":id/send_btn");
-
-// 青云客AI API
-// let api_url = "http://api.qingyunke.com/api.php?key=free&appid=0&msg=";
 
 // messages list
 let messages_list = [];
